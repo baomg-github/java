@@ -1,5 +1,0 @@
-1、在本地创建一个村存账号和密码的文件，第一次输入账号密码后就将其存入该文件：
-git config --global credential.helper store
-
-2、使用如下命令进行查看：
-cat ~/.git-credentials
