@@ -14,5 +14,4 @@ public class Variable {
 			double c = 0.001;   //局部变量
 		}
 	}
-
 }
